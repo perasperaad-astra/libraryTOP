@@ -1,0 +1,11 @@
+#container {
+    display: flex;
+  }
+  
+#container div {
+    background: rgb(255, 231, 231);
+    border: 2px solid black;
+    height: 100px;
+    flex: 1;
+  }
+
